@@ -1,0 +1,3 @@
+li.payment_method_paypal img, a.about_paypal {
+  display: none !important;
+}

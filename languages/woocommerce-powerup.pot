@@ -1,0 +1,566 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PowerUp! for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-18 17:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: woocommerce-powerup"
+
+#. %1$s - <strong>, %2$s - </strong>, %3$s - <a>, %4$s - version number, %5$s - </a>
+#: woocommerce-powerup.php:354
+#, php-format
+msgid ""
+"%1$sWooCommerce PowerUp is inactive%2$s as it requires WooCommerce. Please "
+"%3$sactivate WooCommerce version %4$s or newer%5$s"
+msgstr ""
+
+#. Placeholders: %1$s - <strong>, %2$s - </strong>, %3$s - version number, %4$s and %6$s - <a> tags, %5$s - </a>
+#: woocommerce-powerup.php:375
+#, php-format
+msgid ""
+"%1$sWooCommerce PowerUp is inactive.%2$s This plugin requires WooCommerce "
+"%3$s or newer. Please %4$supdate WooCommerce%5$s or %6$srun the WooCommerce "
+"database upgrade%5$s."
+msgstr ""
+
+#. Author of the plugin
+msgid "3 Mini Monsters"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:193
+msgid "Add the shop page description / introduction under Heading Title above"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:228 
+#: includes/class-wc-powerup-settings.php:348
+msgid "Add to Cart Button Text"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:319 
+#: includes/class-wc-powerup-settings.php:340
+msgid "Additional Information"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:354
+msgid "All Product Types"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:460
+msgid "Apply coupon"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:375
+msgid "Backorder text"
+msgstr ""
+
+#: includes/class-wc-powerup-integrations.php:80
+msgid "Bundle Product"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:67
+msgid "Cart"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:474
+msgid "Cart totals"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:461
+msgid ""
+"Change text for the \"Apply coupon\" text on cart page. Default: \"Apply "
+"coupon\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:475
+msgid ""
+"Change text for the \"Cart totals\" text on cart page. Default: \"Cart "
+"totals\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:454
+msgid ""
+"Change text for the \"Coupon code\" text on cart page. Default: \"Coupon "
+"code\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:496
+msgid ""
+"Change text for the \"Proeed to checkout\" text on cart page. Default: "
+"\"Proceed to checkout\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:482
+msgid ""
+"Change text for the \"Subtotal\" text on cart page. Default: \"Subtotal\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:489
+msgid "Change text for the \"Total\" text on cart page. Default: \"Total\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:468
+msgid ""
+"Change text for the \"Update cart\" text on cart page. Default: \"Update "
+"cart\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:376
+msgid ""
+"Change text for the backorder on product pages. Default: \"Available on "
+"backorder\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:369
+msgid ""
+"Change text for the out of stock on product pages. Default: \"Out of stock\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:270
+msgid "Change text for the sale flash on all loop pages. Default: \"Sale!\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:390
+msgid "Change text for the sale flash on product pages. Default: \"Sale!\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:447 
+#: includes/class-wc-powerup-settings.php:540 
+#: includes/class-wc-powerup-settings.php:583
+msgid "Change Text To"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:249
+msgid ""
+"Change the add to cart button text for grouped products on all loop pages"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:256
+msgid ""
+"Change the add to cart button text for out of stock products on all loop "
+"pages"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:235
+msgid ""
+"Change the add to cart button text for simple products on all loop pages"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:242
+msgid ""
+"Change the add to cart button text for variable products on all loop pages"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:355
+msgid ""
+"Change the Add to Cart button text on the single product page for all "
+"product type"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:341
+msgid ""
+"Change the Additional Information tab heading. “Additional Information” tab "
+"will only show if the product has weight, dimensions or attributes (with "
+"“Visible on the product page” checked)."
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:320
+msgid ""
+"Change the Additional Information tab title. “Additional Information” tab "
+"will only show if the product has weight, dimensions or attributes (with "
+"“Visible on the product page” checked)."
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:624
+msgid ""
+"Change the default product image thumbnail by setting this to a valid image "
+"URL"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:185
+msgid "Change the default shop page heading title - \"Shop\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:604
+msgid ""
+"Change the Excluding Taxes label. Defaults to Exc. tax for USA, Exc. VAT for "
+"European countries"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:597
+msgid ""
+"Change the Including Taxes label. Defaults to Inc. tax for USA, Inc. VAT for "
+"European countries"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:554
+msgid "Change the message displayed if customers can login at checkout page"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:562
+msgid ""
+"Change the message displayed if the coupon code form is enabled on checkout "
+"page"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:547
+msgid ""
+"Change the message displayed when a customer must be logged in to checkout "
+"the order"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:214
+msgid "Change the number of columns displayed per page"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:221
+msgid "Change the number of product thumbnail columns displayed"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:207
+msgid "Change the number of products displayed per page"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:570
+msgid "Change the Place Order button text on checkout"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:334
+msgid "Change the Product Description tab heading"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:313
+msgid "Change the Production Description tab title"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:590
+msgid ""
+"Change the Taxes label. Defaults to Tax for USA, VAT for European countries"
+msgstr ""
+
+#: includes/class-wc-powerup-integrations.php:81
+msgid ""
+"Changes the add to cart button text for bundle products on all loop pages"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:68
+msgid "Checkout"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:453
+msgid "Coupon code"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:561
+msgid "Coupon text"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:623
+msgid "Default Product Thumbnail URL"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:192
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:294
+msgid "Display total units sold / total sales at individual product page."
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:410
+msgid "Enable Skip Cart to Checkout"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:603
+msgid "Excluding Tax Label"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:248
+msgid "Grouped Product"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:184
+msgid "Heading Title"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:516
+msgid ""
+"Hide other shipping methods if free shipping is available at the checkout "
+"page"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://3minimonsters.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://3minimonsters.com/powerup/"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:596
+msgid "Including Tax Label"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:422
+msgid "Limit One Product Per Order"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:553
+msgid "Login text"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:546
+msgid "Must be logged in text"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:165 
+#: includes/class-wc-powerup-settings.php:177 
+#: includes/class-wc-powerup-settings.php:298 
+#: includes/class-wc-powerup-settings.php:415 
+#: includes/class-wc-powerup-settings.php:427 
+#: includes/class-wc-powerup-settings.php:439 
+#: includes/class-wc-powerup-settings.php:520 
+#: includes/class-wc-powerup-settings.php:532
+msgid "No"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:255
+msgid "Out of Stock Product"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:362
+msgid "Out of Stock Text"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:368
+msgid "Out of Stock text"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:569
+msgid "Place Order button"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Power up your WooCommerce with over 40 popular options without writing any "
+"code!"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:48
+msgid "PowerUp!"
+msgstr ""
+
+#. Name of the plugin
+msgid "PowerUp! for WooCommerce"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:495
+msgid "Proceed to checkout"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:66
+msgid "Product"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:213
+msgid "Product columns per page"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:312 
+#: includes/class-wc-powerup-settings.php:333
+msgid "Product Description"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:70 
+#: includes/class-wc-powerup-settings.php:617
+msgid "Product Image"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:220
+msgid "Product thumbnail columns"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:206
+msgid "Products displayed per page"
+msgstr ""
+
+#: woocommerce-powerup.php:843
+msgid "Rate this plugin"
+msgstr ""
+
+#: woocommerce-powerup.php:843
+msgid "Rate this plugin ★★★★★"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:527
+msgid "Remove PayPal icons"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:528
+msgid "Remove Paypal icons at the checkout form under payment section."
+msgstr ""
+
+#: woocommerce-powerup.php:820
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:269 
+#: includes/class-wc-powerup-settings.php:389
+msgid "Sale badge text"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:263 
+#: includes/class-wc-powerup-settings.php:383
+msgid "Sale Flash"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:287 
+#: includes/class-wc-powerup-settings.php:404 
+#: includes/class-wc-powerup-settings.php:509
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:65
+msgid "Shop"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:200
+msgid "Shop Layout"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:435
+msgid "Show 3 featured products after cart content as the product suggestion."
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:434
+msgid "Show Featured Products"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:161
+msgid "Show/Hide default breadcrumbs on top of the Shop page"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:173
+msgid "Show/Hide default heading title on top of the Shop page"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:393
+msgid ""
+"Shows \"up to n%\" for grouped or variable products if multiple percentages "
+"are possible."
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:273
+msgid "Shows \"up to n%\" for grouped or variable products."
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:234
+msgid "Simple Product"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:411
+msgid "Skip cart page and redirect to checkout page after adding to cart."
+msgstr ""
+
+#: woocommerce-powerup.php:818
+msgid "Start PowerUp!"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:481
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce-powerup.php:819 woocommerce-powerup.php:842
+msgid "Support"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:327
+msgid "Tab Content Headings"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:306
+msgid "Tab Titles"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:69
+msgid "Tax"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:589
+msgid "Tax Label"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:423
+msgid ""
+"The customer only can buy one product, if the customer goes to another "
+"product and tries to buy it, the cart will be cleaned and the last item "
+"added."
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:154
+msgid "Title & Description"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:488
+msgid "Total"
+msgstr ""
+
+#. Placeholder: %s - sale percentage
+#: woocommerce-powerup.php:889 woocommerce-powerup.php:935
+#, php-format
+msgid "up to %s"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:467
+msgid "Update cart"
+msgstr ""
+
+#. Placeholders: %1$s - <code>, %2$s - </code>
+#: includes/class-wc-powerup-settings.php:273
+#, php-format
+msgid ""
+"Use %1$s{percent}%2$s to insert percent off / Use %1$s{amount}%2$s to insert "
+"total amount saved, e.g., \"{percent} off!\", \"{amount} {percent} off!\""
+msgstr ""
+
+#. Placeholders: %1$s - <code>, %2$s - </code>
+#: includes/class-wc-powerup-settings.php:393
+#, php-format
+msgid "Use %1$s{percent}%2$s to insert percent off, e.g., \"{percent} off!\""
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:241
+msgid "Variable Product"
+msgstr ""
+
+#: includes/class-wc-powerup-settings.php:164 
+#: includes/class-wc-powerup-settings.php:176 
+#: includes/class-wc-powerup-settings.php:297 
+#: includes/class-wc-powerup-settings.php:414 
+#: includes/class-wc-powerup-settings.php:426 
+#: includes/class-wc-powerup-settings.php:438 
+#: includes/class-wc-powerup-settings.php:519 
+#: includes/class-wc-powerup-settings.php:531
+msgid "Yes"
+msgstr ""
+
+#. Placeholders: %s - plugin name
+#: woocommerce-powerup.php:114
+#, php-format
+msgid "You cannot clone instances of %s."
+msgstr ""
+
+#. Placeholders: %s - plugin name
+#: woocommerce-powerup.php:126
+#, php-format
+msgid "You cannot unserialize instances of %s."
+msgstr ""
